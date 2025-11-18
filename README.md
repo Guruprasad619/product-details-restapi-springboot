@@ -23,6 +23,8 @@ Open src/main/resources/application.properties and update  To run on port 80, ad
 Right-click the project -> Run As -> Spring Boot App (or click Run).  
 Open a browser and go to: http://localhost
 
+![Products](https://raw.githubusercontent.com/Guruprasad619/product-details-restapi-springboot/main/products.png)
+
 ## Run from command line
 - Using Maven:
   - Start: mvn spring-boot:run
